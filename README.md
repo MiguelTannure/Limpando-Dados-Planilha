@@ -1,7 +1,7 @@
 # Limpando-Dados-Planilha
 Neste repositório compartilho com vocês meu processo de limpeza e formatação de dados para fins estatísticos de uma pesquisa de trabalho de conclusão de curso.
 
-Usando o Pandas e na plataforma do Jupiter Notebook importei um arquivo csv gerado pelo Google Forms ao final de uma pesquisa feita para um trabalho de conclusão de curso. Meu objetivo é limpar os dados, filtrar respostas e arranjar a planilha para que esteja formatada de maneira que a cliente possa usar uma ferramenta de analise estatística para fazer suas analises sobre os dados obtidos.
+Usando o Pandas e na plataforma do Jupiter Notebook importei o arquivo "Formulário para Casais (Monografia) (respostas).csv" gerado pelo Google Forms ao final de uma pesquisa feita para um trabalho de conclusão de curso. Meu objetivo é limpar os dados, filtrar respostas e arranjar a planilha para que esteja formatada de maneira que a cliente possa usar uma ferramenta de analise estatística para fazer suas analises sobre os dados obtidos fiz isso pelo Jupiter Notebook entitulado "Limpando dados Monografia" que consta no repositório
 Existe uma certa peculiaridade e pessoalidade no processo uma vez que a pesquisa apresenta fragilidades na forma como foi elaborada e os intersses da cliente pelas informações obtidas também ditam o que vamos preservar ou não.
 
 ## Metodologia
